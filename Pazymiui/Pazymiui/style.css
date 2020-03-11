@@ -1,0 +1,28 @@
+body
+{
+    background-color:#d9caa0;
+}
+.pirmaklase
+{
+    color: #b8922c;
+    font-size: 15pt;
+    text-align: center;
+}
+.antraklase
+{
+    color: #7d641e;
+    font-size: 14pt;
+    text-align:left;
+}
+#vardas
+{
+    text-emphasis: location:bottom;
+    font-size: 20pt;
+    text-align:right;
+    color:#c4ab64;
+}
+img
+{
+    width:50%;
+    height:auto;
+}

@@ -1,0 +1,39 @@
+body
+{
+    background-image: linear-gradient(to bottom right, #ff00c8, #ffdd00);
+    color:#c8ff00;
+    font-size: 15pt;
+    text-align:left;
+}
+.opa
+{
+    color:#c8ff00;
+    font-size: 40pt;
+    text-align:left;
+}
+img
+{
+    height: 50%;
+    border-radius: 5%;
+}
+.a
+{
+    color:#c8ff00;
+    font-size: 15pt;
+    text-align:left;
+    text-decoration: none;
+}
+.a:hover
+{
+    color:#eaff00;
+    font-size: 15pt;
+    text-align:left;
+    text-decoration: underline;
+}
+#OPA
+{
+    text-align: right;
+
+    font-size: 20pt;
+    color: #ff00c8;
+}
