@@ -1,0 +1,129 @@
+.pradzia
+{
+    background: #262523;
+    text-align: right;
+    color: white;
+ 
+    font-family: Courier;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+}
+
+
+.dievas
+{
+    padding: 5px;
+    background: #454443;
+    text-align:  center;
+    color: white;
+    font-size: 30px;
+    font-family: Courier;
+}
+.dievas-l
+{
+    text-align: center; 
+    padding-top: 5px;
+    background: #54514e;
+    color: white;
+  
+}
+img
+{
+    width: 60%;
+    height: 60%;
+    object-fit:cover;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.sth
+{
+    width: 100%;
+    display: block;
+}
+.text
+{
+    color: white;
+  
+    margin-left: 20%;
+    margin-right: 20%;
+    background: #54514e;
+    font-size: 20px;
+    font-family: Courier;
+
+
+}
+body
+{
+    background: #b3b3b3
+}
+table {
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    text-align: start;
+    border-spacing: 10px;
+    font-variant: normal;
+    background: #262523;
+    text-align: right;
+    color: white;
+    width: 100%;
+ 
+    font-family: Courier;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+}
+.a
+{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   
+}
+.a:hover
+{
+    text-decoration: underline;
+}
+.modelis
+{
+    font-size: 30px;
+}
+td
+{
+    text-align: center;
+    width:25%
+}
+.ferrari
+{
+    text-align: center; 
+    padding-top: 5px;
+    background: #707070;
+    color: white;
+    width: 33.333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333%;
+    float: left;
+}
+.lambo
+{
+    text-align: right; 
+    padding-top: 5px;
+    background: #919191;
+    color: white;
+    width: 33.333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333%;
+    float: left;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
